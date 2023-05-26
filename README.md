@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working as software engineer<br>👯 I’m looking to collaborate on machine learning testing-related<br>🤝 I’m looking for help with developing a best extension to find out anime name by image<br>🌱 I’m currently learning data science and AI<br>💬 Ask me about how the machine learn<br>⚡ Fun fact - I'm single
+🔭 I’m currently working as AI engineer<br>👯 I’m looking to collaborate on machine learning testing-related<br>🤝 I’m looking for help with developing a best extension to find out anime name by image<br>🌱 I’m currently learning data science and AI<br>💬 Ask me about how the machine learn<br>⚡ Fun fact - I'm single
 
 ## 🌐 Socials:
 
