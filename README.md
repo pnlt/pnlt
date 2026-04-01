@@ -14,10 +14,10 @@ Windows 7 enjoyer. Latency matters. Anti-bloat by default.
 
 | | |
 |---|---|
-| [VR Interior Design](https://github.com/pnlt/VRInteriorDesign) | Meta Quest · Unity 6.1 · Third Prize, University Scientific Research |
-| [TableTennis VR](https://github.com/pnlt/TableTennisVR) | Meta Quest · Unity 6 · 90fps · Q1 VR Journal submission |
-| [Top-Down Shooter](https://github.com/pnlt/TopDownShooter) | Unity · Modular weapons · Spline-based enemy AI · Boss fight |
-| [Endless Friendship](https://github.com/pnlt/EndLess-Friendship) | Unity · Third Prize, Korea Game Week 2023 |
+| [VR Interior Design](https://github.com/pnlt/VNE5T-SolutionForAVR) | Meta Quest · Unity 6.1 · Third Prize, University Scientific Research |
+| [TableTennis VR](https://github.com/pnlt/TableTennisVR-Version1) | Meta Quest · Unity 6 · 90fps · Q1 VR Journal submission |
+| [Top-Down Shooter](https://github.com/pnlt/Shoot-Em-Up) | Unity · Modular weapons · Spline-based enemy AI · Boss fight |
+| [Endless Friendship](https://github.com/pnlt/Third-Prize-Korea-Game-Week) | Unity · Third Prize, Korea Game Week 2023 |
 
 ---
 
