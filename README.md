@@ -1,4 +1,3 @@
-**Nguyen Le Tat Phu**
 Game Developer · Building things that feel good to play.
 Windows 7 enjoyer. Latency matters. Anti-bloat by default.
 
